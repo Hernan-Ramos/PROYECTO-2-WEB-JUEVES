@@ -1,0 +1,207 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.padre{
+    background-color: burlywood;
+    width: 800px;
+    height: 1000px;
+    position: relative;
+    left: 40px;
+
+
+}
+.uno{
+    background-color: black;
+    width: 115px;
+    height: 110px;
+    border-radius: 50%;
+    border: 20px;
+    position: relative;
+    top: 60px;
+    left: 160px;
+
+}
+
+.dos{
+    background-color: black;
+    width: 115px;
+    height: 110px;
+    border-radius: 50%;
+    border: 20px;
+    position: absolute;
+    top: 60px;
+    left: 345px;
+
+}
+.tres{
+    background-color: white;
+    width: 250px;
+    height: 260px;
+    border-radius: 50%;
+    border: 7px;
+    position:absolute;
+    top: 110px;
+    left: 180px;
+    border-color: black;
+    border-style: solid;
+
+}
+.cuatro{
+    background-color: white;
+    width: 370px;
+    height: 380px;
+    border-radius: 50%;
+    position:absolute;
+    top: 390px;
+    left: 130px;
+    border: 9px;
+    border-color: black;
+    border-style: solid;
+
+}
+.huno {
+    background-color: white;
+    width: 65px;
+    height: 57px;
+    border-radius: 50%;
+    position: absolute; 
+    top: 40px;
+    left: 30px;
+}
+.hdos {
+    background-color: white;
+    width: 60px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 47px; 
+    left: 20px;
+}
+.hcuatro{
+    background-color:black;
+    width:270px ;
+    height: 290px;
+    border-radius: 50%;
+    border-style: solid;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+
+}
+.htres{
+    background-color: black;
+    width: 95px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: 35px;
+    left: 25px;
+
+}
+.h2tres{
+    background-color: black;
+    width: 95px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: 35px;
+    left: 125px;
+
+}
+.h3tres{
+    background-color: black;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    position: absolute;
+    top: 175px;
+    left: 105px;
+
+
+}
+.nhtres{
+    background-color: white;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+
+
+
+}
+.nh2tres{
+    background-color: white;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+
+
+
+}
+.cinco{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 500px;
+    left: 50px;
+
+
+
+}
+.seis{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+
+
+
+}
+.siete{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 750px;
+    left: 170px;
+
+
+
+}
+.ocho{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 750px;
+    left: 350px;
+
+
+
+}
+.nombre{
+    width: 900px;
+    height: 40px;
+    position: absolute;
+    top: 920px;
+    left: -60px;
+}
+
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
